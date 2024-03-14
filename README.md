@@ -1,5 +1,9 @@
 # yuzu-downloads
 
+- Android Mainline Build - e15a4a042 (2024-03-14)
+  - [`APK`](https://github.com/yuzu-mirror/yuzu-downloads/raw/main/Android%20Mainline%20Build%20-%20e15a4a042%20(2024-03-14)/app-mainline-release.apk)
+- EA Build - 72ac0b9787 (2024-03-01)
+  - [`Linux`](https://github.com/yuzu-mirror/yuzu-downloads/raw/main/EA%20Build%20-%2072ac0b9787%20(2024-03-01)/Linux-Yuzu-EA-4176.AppImage) |   [`Windows`](https://github.com/yuzu-mirror/yuzu-downloads/raw/main/EA%20Build%20-%2072ac0b9787%20(2024-03-01)/Windows-Yuzu-EA-4176.zip)
 - Mainline Build - 537296095 (2024-03-04)
   - [`Linux`](https://github.com/yuzu-mirror/yuzu-downloads/raw/main/Mainline%20Build%20-%20537296095%20(2024-03-04)/yuzu-mainline-20240304-537296095.AppImage) | [`Windows`](https://github.com/yuzu-mirror/yuzu-downloads/raw/main/Mainline%20Build%20-%20537296095%20(2024-03-04)/yuzu-windows-msvc-20240304-537296095.zip)
 - Mainline Build - 7ffac53c9 (2024-03-03)
