@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "org.yuzu.yuzu_emu",
+  "variantName": "mainlineRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "e15a4a042",
+      "outputFile": "app-mainline-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
